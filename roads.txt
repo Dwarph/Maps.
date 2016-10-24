@@ -1,0 +1,7 @@
+A487:A:3.4:Aberystwyth:Bow Street
+A487:A:0.9:Bow Street:Rhydypennau
+A487:A:2.7:Rhydypennau:Tal-y-bont
+A487:A:0.9:Penparcau:Aberystwyth
+Hoel-Y-Bont:U:0.8:Penparcau:Llanbadarn
+B4353:B:3.6:Rhydypennau:Borth
+A44:A:1.2:Aberystwyth:Llanbadarn
